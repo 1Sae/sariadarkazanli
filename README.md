@@ -40,48 +40,6 @@ Building Mobile Apps, Web Applications, and AI-Powered Solutions
 
 ## 🛠️ Tech Stack
 
-### Languages
-
-![C](https://skillicons.dev/icons?i=c)
-![Java](https://skillicons.dev/icons?i=java)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![Dart](https://skillicons.dev/icons?i=dart)
-![Swift](https://skillicons.dev/icons?i=swift)
-![Python](https://skillicons.dev/icons?i=python)
-
-### Frontend
-
-![React](https://skillicons.dev/icons?i=react)
-![NextJS](https://skillicons.dev/icons?i=nextjs)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-
-### Mobile
-
-![Flutter](https://skillicons.dev/icons?i=flutter)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-
-### Backend
-
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-
-### Database
-
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![SQLite](https://skillicons.dev/icons?i=sqlite)
-
-### Tools
-
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Postman](https://skillicons.dev/icons?i=postman)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Figma](https://skillicons.dev/icons?i=figma)
-![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)
 
 ### 📱 Mobile Development
 
@@ -197,11 +155,11 @@ An interactive quiz platform.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sariadarkazanli&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=1Sae&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sariadarkazanli&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Sae&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -209,7 +167,7 @@ An interactive quiz platform.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sariadarkazanli&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1Sae&theme=tokyonight" />
 </p>
 
 ---
@@ -217,7 +175,7 @@ An interactive quiz platform.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sariadarkazanli&theme=tokyonight&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=1Sae&theme=tokyonight&column=7" />
 </p>
 
 ---
@@ -225,7 +183,7 @@ An interactive quiz platform.
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sariadarkazanli&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1Sae&theme=tokyo-night" />
 </p>
 
 ---
