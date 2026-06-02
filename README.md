@@ -152,42 +152,6 @@ An interactive quiz platform.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=1Sae&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Sae&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1Sae&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=1Sae&theme=tokyonight&column=7" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1Sae&theme=tokyo-night" />
-</p>
-
----
-
 ## 🌱 Currently Learning
 
 - Advanced Flutter Architecture
@@ -198,20 +162,14 @@ An interactive quiz platform.
 - Cloud Technologies
 
 ---
-
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="www.linkedin.com/in/sarya-darkazanli-19123525b">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+  <a href="www.linkedin.com/in/sarya-darkazanli-19123525b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="mailto:sarya.darkazanli@gmail.com@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://github.com/1Sae">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+  <a href="https://www.instagram.com/saryadarkazanli?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
-
