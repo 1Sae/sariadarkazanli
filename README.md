@@ -20,17 +20,17 @@ Building Mobile Apps, Web Applications, and AI-Powered Solutions
 
 ## 🚀 About Me
 
-🎓 Computer Engineering Student
+🎓 Software Engineering Student
 
-📱 Mobile Developer specializing in Flutter & Swift
+📱 Mobile Developer specializing in Flutter
 
-🌐 Full Stack Developer using React, Node.js, Express.js, and MongoDB
+🌐 Full Stack Developer using Nextjs, Typescript, React, Node.js, Express.js, and MongoDB
 
 🤖 Interested in AI, Machine Learning, and Educational Technology
 
 💡 Passionate about building scalable mobile and web applications
 
-📚 Currently improving my Swift, Backend Architecture, and AI skills
+📚 Currently improving my Frontend, Backend Architecture, and AI skills
 
 💼 Looking for Internship Opportunities
 
@@ -39,6 +39,49 @@ Building Mobile Apps, Web Applications, and AI-Powered Solutions
 ---
 
 ## 🛠️ Tech Stack
+
+### Languages
+
+![C](https://skillicons.dev/icons?i=c)
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![Dart](https://skillicons.dev/icons?i=dart)
+![Swift](https://skillicons.dev/icons?i=swift)
+![Python](https://skillicons.dev/icons?i=python)
+
+### Frontend
+
+![React](https://skillicons.dev/icons?i=react)
+![NextJS](https://skillicons.dev/icons?i=nextjs)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+
+### Mobile
+
+![Flutter](https://skillicons.dev/icons?i=flutter)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+
+### Backend
+
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+
+### Database
+
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![SQLite](https://skillicons.dev/icons?i=sqlite)
+
+### Tools
+
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Postman](https://skillicons.dev/icons?i=postman)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Figma](https://skillicons.dev/icons?i=figma)
+![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)
 
 ### 📱 Mobile Development
 
@@ -80,61 +123,74 @@ Building Mobile Apps, Web Applications, and AI-Powered Solutions
 
 ## 🚀 Featured Projects
 
-### 📚 AI Educational Platform
+### 🛍️ IPWTech E-Commerce Platform
 
-**Flutter • Node.js • MongoDB • OpenAI API**
+**Next.js • TypeScript • React • Node.js • Express.js • MongoDB • JWT**
 
-- PDF Upload & Processing
-- AI-generated Summaries
-- Flashcard Generation
-- MCQ Exam Generation
-- JWT Authentication
-- Scoreboard & Timer System
+A complete e-commerce platform developed for a real business.
+
+#### Features
+
+- Customer-facing online store built with Next.js and TypeScript
+- Admin dashboard built with React.js
+- Secure JWT Authentication
+- Product & Category Management
+- Order Management System
+- Responsive Design
+- RESTful API Integration
+- MongoDB Database
 
 ---
 
-### ✅ Task Management System
+### ✅ Taskory Management System
 
-**Flutter • Node.js • MongoDB**
+**React.js • Node.js • Express.js • MongoDB • JWT**
+
+A project and task management platform.
+
+#### Features
 
 - User Authentication
 - Project Management
 - Task CRUD Operations
-- Due Dates & Priorities
-- Provider State Management
+- Priority & Status Tracking
+- Protected Routes
+- RESTful API Architecture
+- MongoDB Integration
 
 ---
 
-### 🏋️ Gym Workout Tracker
+### 💰 Expense Tracker App
 
-**Flutter • Node.js • MongoDB**
+**Flutter • SQLite**
 
-- Workout Notes
-- Exercises Tracking
-- Sets & Reps Management
-- User-specific Data
+A mobile application for personal finance management.
 
----
+#### Features
 
-### 🏠 Real Estate Website
-
-**React • Node.js • MongoDB**
-
-- Property Listings
-- Responsive Design
-- Modern UI/UX
-- Backend Integration
+- Income & Expense Tracking
+- Local Database Storage
+- Transaction History
+- Category Management
+- Statistics Dashboard
+- Offline Support
 
 ---
 
-### ✈️ Flight Booking Website
+### 🧠 Math Master
 
-**React • Node.js • MongoDB**
+**HTML • CSS • JavaScript • Node.js • Express.js • MongoDB**
 
-- Flight Search
-- Authentication
-- Booking System
-- Database Integration
+An interactive quiz platform.
+
+#### Features
+
+- Dynamic Quiz System
+- Score Calculation
+- User Authentication
+- Question Management
+- MongoDB Database
+- REST API Backend
 
 ---
 
@@ -188,27 +244,16 @@ Building Mobile Apps, Web Applications, and AI-Powered Solutions
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/sarya-darkazanli-19123525b">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:sarya.darkazanli@gmail.com@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://github.com/sariadarkazanli">
+<a href="https://github.com/1Sae">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
 
----
-
-## 💭 Quote
-
-> "The best way to learn programming is by building real projects."
-
----
-
-<p align="center">
-  <i>Thanks for visiting my profile! 🚀</i>
-</p>
